@@ -10,4 +10,4 @@ Put n = 50:
 = 2550 / 2
 = 1275
 
-So answer is 1275
+So answer is 1275 
